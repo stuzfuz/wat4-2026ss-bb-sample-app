@@ -1,4 +1,4 @@
-# Sample App (Counter)
+# Sample App (Counter)  
 
 ## Backend
 
